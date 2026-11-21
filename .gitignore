@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+*.log
+farmers_pack_low-poly.glb
+public/assets/farmers_pack_low-poly.glb
+public/assets/AvatarSample_C.vrm
+public/assets/vroid-male.vrm
+public/assets/quaternius/
+dist/preview-*.js
+preview-vroid.html
+
